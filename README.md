@@ -1,16 +1,149 @@
-# React + Vite
+# 🚀 Prospective Customer Segmentation UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive UI built using **React.js**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+This project demonstrates component-based architecture, reusable design patterns, prop drilling, and dynamic rendering using `.map()`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a UI implementation of a **Digital Banking Platform** showcasing prospective customer segmentation.
 
-## Expanding the ESLint configuration
+### Objectives:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Practice React fundamentals using `.jsx`
+- Understand reusable component structure
+- Implement dynamic card rendering
+- Learn prop drilling (parent → child communication)
+- Use Tailwind CSS for professional styling
+- Organize project using a feature-based structure
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 📁 Feature-Based Folder Structure
+- 🧩 Component-Based Architecture
+
+---
+
+## 📂 Project Structure
+```
+├── node_modules/
+├── public/
+│
+├── src/
+│ ├── assets/
+│ │ └── react.svg
+│ │
+│ ├── components/
+│ │ ├── Section1/
+│ │ │ └── Section1.jsx
+│ │ │
+│ │ └── Section2/
+│ │ └── Section2.jsx
+│ │
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ✨ Features
+
+- Reusable Card Components
+- Dynamic rendering using `.map()`
+- Prop drilling from parent to child components
+- Clean and modern layout
+- Responsive design using Tailwind CSS
+- Structured folder organization
+- Professional typography and spacing
+
+---
+
+## 🧠 Concepts Practiced
+
+- JSX
+- Functional Components
+- Props
+- Component Reusability
+- Data-driven UI rendering
+- Feature-based structuring
+- Tailwind utility-first styling
+- Vite bundling & development server
+
+---
+
+## 📸 UI Preview
+
+`Screenshot .png`
+
+ ---
+
+🚀 Getting Started
+
+1️⃣ Clone the Repository
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd 01-folder
+```
+
+2️⃣ Install Dependencies
+```
+npm install
+```
+3️⃣ Run Development Server
+```
+npm run dev
+```
+
+App runs at:
+```
+http://localhost:5173/
+```
+
+---
+
+📈 What I Learned
+
+Through this project, I gained hands-on experience in:
+- Structuring scalable React applications
+- Managing component communication
+- Building reusable UI components
+- Styling efficiently using Tailwind CSS
+- Understanding modern frontend tooling with Vite
+- This marks my first structured step into frontend development using React.js.
+
+---
+
+🔮 Future Improvements
+
+- Add useState for interactivity
+- Implement filtering functionality
+- Add API integration
+- Add animations
+- Improve responsiveness for all screen sizes
+
+---
+
+👩‍💻 Author
+
+Krishna Yadav
+Computer Engineering Student
+Aspiring Frontend Developer
+
+---
