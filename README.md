@@ -88,7 +88,7 @@ This project is a UI implementation of a **Digital Banking Platform** showcasing
 
 ## 📸 UI Preview
 
-`Screenshot .png`
+![UI Preview](./Screenshot%20.png)
 
  ---
 
