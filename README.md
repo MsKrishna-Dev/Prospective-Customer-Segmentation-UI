@@ -4,8 +4,6 @@ A modern and responsive UI built using **React.js**, **Vite**, and **Tailwind CS
 
 This project demonstrates component-based architecture, reusable design patterns, prop drilling, and dynamic rendering using `.map()`.
 
----
-
 ## 📌 Project Overview
 
 This project is a UI implementation of a **Digital Banking Platform** showcasing prospective customer segmentation.
@@ -94,7 +92,7 @@ This project is a UI implementation of a **Digital Banking Platform** showcasing
 
  ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 1️⃣ Clone the Repository
 ```
@@ -118,7 +116,7 @@ http://localhost:5173/
 
 ---
 
-📈 What I Learned
+## 📈 What I Learned
 
 Through this project, I gained hands-on experience in:
 - Structuring scalable React applications
@@ -130,7 +128,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add useState for interactivity
 - Implement filtering functionality
@@ -140,7 +138,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Krishna Yadav
 Computer Engineering Student
